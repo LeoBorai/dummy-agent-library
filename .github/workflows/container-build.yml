@@ -10,6 +10,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Prepare
+        run: cp .env.example .env
+
       - name: Builds Docker Image
         run: docker compose build notebook
 

@@ -1,13 +1,13 @@
 <div>
-  <h1 align="center">Docker Machine Learning</h1>
-  <h4 align="center">A template for Machine Learning projects with Docker</h4>
+  <img align="center" src="./docs/hf-logo.png" />
+  <h1 align="center">Dummy Agent Library</h1>
+  <h4 align="center">🤗 Part of the Agent's Course from HuggingFace. Learn more at https://hf.co/learn/agents-course</h4>
 </div>
 
 ## Motivation
 
-Spin up Machine Learning projects with ease, avoiding a virtual environment
-setup by using Docker, extending compatibility for collaboration by having
-a operative system agnostic environment.
+Build a simple Agent Library to gasp the fundamentals learned in the AI Agents Architecture
+course provided by Hugging Face.
 
 ## Run Locally
 

@@ -1,5 +1,5 @@
-<div>
-  <img align="center" src="./docs/hf-logo.png" />
+<div align="center">
+  <img align="center" width="180px" height="auto" src="./docs/hf-logo.png" />
   <h1 align="center">Dummy Agent Library</h1>
   <h4 align="center">🤗 Part of the Agent's Course from HuggingFace. Learn more at https://hf.co/learn/agents-course</h4>
 </div>
